@@ -1,0 +1,63 @@
+.footer {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	bottom: 0;
+	width: 96%;
+	background-color: #282828;
+	height: 65px;
+	padding: 20px;
+}
+
+.footer__left{
+	flex: 0.3;
+	color: white;
+	display: flex;
+	align-items: center;
+	max-width: 300px;
+}
+.song__info > h5 {
+	margin-bottom: 5px;
+}
+
+.song__info > p {
+	font-size: 12px;
+}
+
+.footer__left > img {
+	height: 60px;
+	object-fit: contain;
+	padding-right: 20px;
+}
+
+.footer__center{
+	flex: 0.4;
+	display: flex;
+	align-items: center;
+	padding: 0, 100px;
+	color: white;
+	justify-content: space-between;
+	max-width: 300px;
+}
+.footer__right{
+	flex: 0.3;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+	max-width: 300px;
+}
+
+.icon__color {
+	color: rgb(7, 192, 7);
+}
+
+.icon__color:hover,
+.icon__title:hover {
+	transition: 0.2s ease-in-out;
+	transform: scale(1.3) !important;
+}
+
+.footer__right * .MuiSlider-root {
+	color: rgb(7, 192, 7);
+}
