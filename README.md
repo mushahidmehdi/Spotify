@@ -1,5 +1,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Capture](https://user-images.githubusercontent.com/66418035/136826565-ebb90c50-ece6-4be8-93c9-1aa452325415.PNG)
 
 
 # Getting Started with Create React App
